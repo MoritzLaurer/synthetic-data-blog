@@ -1,11 +1,11 @@
 # 🤗 Synthetic data blog post 
 This is the reproduction repository for my Hugging Face blog post on synthetic data [ADD HYPERLINK ONCE PUBLISHED]
 
-Feel free to re-use this code for creating your own synthetic dataset for your own use-cases. 
+Feel free to re-use this code for creating your own synthetic dataset for your own use cases. 
 
-### Scripts: 
-- `synthetic_data_creation.ipynb` is the final script for producing the numbers in the blog post. I recommend reusing the code from this script with asynchronous functions and batching if you want to create your own synthetic data efficiently.
-- `synthetic_data_creation_simple.ipynb` is a simplified version of the script for easier readibility in the blog post.
+### Notebooks: 
+- `synthetic_data_creation.ipynb` is the final notebook for producing the numbers in the blog post. I recommend reusing the code from this notebook with asynchronous functions and batching if you want to create your own synthetic data efficiently.
+- `synthetic_data_creation_simple.ipynb` is a simplified version of the notebook for easier readibility in the blog post.
 - `synthetic_data_viz.ipynb` creates the visualisations.
 - `synthetic_data_costs.ipynb` implements the calculations for monetary costs, latency, throughput and environmental CO2 costs. 
 
